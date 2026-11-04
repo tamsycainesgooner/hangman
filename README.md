@@ -1,1 +1,4 @@
 # hangman
+\
+
+don gokt a
