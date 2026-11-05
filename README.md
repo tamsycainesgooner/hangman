@@ -22,4 +22,4 @@
 
 ## Beurtenlog
 - beurt1: <Aiden> gokt "a"
-- beurt2: ...
+- beurt2: <jelle> gokt een "e"
