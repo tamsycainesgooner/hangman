@@ -23,3 +23,4 @@
 ## Beurtenlog
 - beurt1: <Aiden> gokt "a"
 - beurt2: <jelle> gokt een "e"
+- beurt3: <Aiden> gokt een "w"
